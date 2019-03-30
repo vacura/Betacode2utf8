@@ -3,9 +3,10 @@ Convertor from betacode to UTF8 for LaTeX.
 (If you dont understand it, then you dont need it :)
 
 # Usage 
-betacode2utf8 infile outfile [command]
+`betacode2utf8 infile outfile [command]`
 
 Command is optional, it is useless now, but may be usefull in future.
+
 **Note:** If infile already uses some special characters - like diacritical marks (žluťoučký kůň) - it has to be in UTF8 format, not ANSI etc.
 
 **What it does?** Goes thru infile, finds all instances of \betacode{something} or \bcode{something} and converts them to UTF-8 equivalent. Then it saves result to outfile.
