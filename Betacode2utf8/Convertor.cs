@@ -74,6 +74,7 @@ namespace Betacode2utf8
             diacritics.Add("/" , "0301");
             diacritics.Add("=" , "0342");
             diacritics.Add("\\" , "0300");
+            diacritics.Add("!", "0300");
             diacritics.Add("+" , "0308");
             diacritics.Add("|" , "0345");
             diacritics.Add("?" , "0323");
