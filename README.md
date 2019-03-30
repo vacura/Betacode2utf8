@@ -12,7 +12,7 @@ Command is optional, it is useless now, but may be usefull in future.
 **What it does?** Goes thru infile, finds all instances of \betacode{something} or \bcode{something} and converts them to UTF-8 equivalent. Then it saves result to outfile.
 
 # Example 
-betacode2utf8.exe myinfile.tex myoutfile.tex
+`betacode2utf8.exe myinfile.tex myoutfile.tex`
 
 ## Content of myinfile.tex
 It is important to remember know all \bcode{ge/nh tou= o(/ntos}. Or maybe \bcode{ge/nh tw=n kategorion}? Or as Plato called them sometimes \bcode{me/gista ge/nh}). You should therefore read "\bcode{Peri\ tw=n genw=n tou= o)/ntos}"!!
@@ -27,12 +27,12 @@ Resulting binaries can be used on Windows 10, Linux and Mac.
 # Binaries
 ## Windows 10: 
 * Dowload binary: http://www.vacura.cz/Downloads/Betacode2utf8-Win10-x64.zip
-* Run application using "betacode2utf8.exe myinfile.tex myoutfile.tex"
+* Run application using `betacode2utf8.exe myinfile.tex myoutfile.tex`
 
 ## Linux and Mac:
 * Dowload binary: http://www.vacura.cz/Downloads/Betacode2utf8-net.core.2.1.zip
 * Download .NET Core Framework RUNTIME of your OS: https://dotnet.microsoft.com/download
-* Run application using "dotnet betacode2utf8.DLL myinfile.tex myoutfile.tex"
+* Run application using `dotnet betacode2utf8.DLL myinfile.tex myoutfile.tex`
 
 # Credits
 I used this old PHP project as a starting point:
