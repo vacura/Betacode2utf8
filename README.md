@@ -31,7 +31,7 @@ Resulting binaries can be used on Windows 10, Linux and Mac.
 
 ## Linux and Mac:
 * Dowload binary: http://www.vacura.cz/Downloads/Betacode2utf8-net.core.2.1.zip
-* Download .NET Core Framework RUNTIME of your OS: https://dotnet.microsoft.com/download
+* Download .NET Core Framework RUNTIME for your OS: https://dotnet.microsoft.com/download
 * Run application using `dotnet betacode2utf8.DLL myinfile.tex myoutfile.tex`
 
 # Credits
