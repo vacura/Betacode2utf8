@@ -9,7 +9,7 @@ Command is optional, it is useless now, but may be usefull in future.
 
 **Note:** If infile already uses some special characters - like diacritical marks (žluťoučký kůň) - it has to be in UTF8 format, not ANSI etc.
 
-**What it does?** Goes thru infile, finds all instances of \betacode{something} or \bcode{something} and converts them to UTF-8 equivalent. Then it saves result to outfile.
+**What it does?** Goes thru infile, finds all instances of \betacode{something} or \bcode{something} and converts them to UTF8 equivalent. Then it saves result to outfile.
 
 # Example 
 `betacode2utf8.exe myinfile.tex myoutfile.tex`
