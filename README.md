@@ -15,10 +15,10 @@ Command is optional, it is useless now, but may be usefull in future.
 `betacode2utf8.exe myinfile.tex myoutfile.tex`
 
 ## Content of myinfile.tex
-It is important to remember know all \bcode{ge/nh tou= o(/ntos}. Or maybe \bcode{ge/nh tw=n kategorion}? Or as Plato called them sometimes \bcode{me/gista ge/nh}). You should therefore read "\bcode{Peri\ tw=n genw=n tou= o)/ntos}"!!
+It is important to remember know all \bcode{ge/nh tou= o(/ntos}. Or maybe \bcode{ge/nh tw=n kategorion}? Or as Plato called them sometimes \bcode{me/gista ge/nh}. You should therefore read "\bcode{Peri\ tw=n genw=n tou= o)/ntos}"!!
 
 ## Content of myoutfile.tex
-It is important to remember know all γένη τοῦ ὅντοσ. Or maybe γένη τῶν κατεγοριον? Or as Plato called them sometimes μέγιστα γένη). You should therefore read "περὶ τῶν γενῶν τοῦ ὄντοσ"!!
+It is important to remember know all γένη τοῦ ὅντοσ. Or maybe γένη τῶν κατεγοριον? Or as Plato called them sometimes μέγιστα γένη. You should therefore read "περὶ τῶν γενῶν τοῦ ὄντοσ"!!
 
 # Platform
 Code uses .NET Core 2.1.
