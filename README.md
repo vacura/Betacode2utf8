@@ -1,5 +1,5 @@
 # Betacode2utf8
-Convertor from betacode to UTF8 for LaTeX.
+Converter from betacode to UTF8 for LaTeX.
 (If you dont understand it, then you dont need it :)
 
 # Usage 
